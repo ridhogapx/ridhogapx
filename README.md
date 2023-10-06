@@ -1,2 +1,2 @@
-### About
-Orang ganteng dan intelek
+### Orang ganteng dan intelek
+

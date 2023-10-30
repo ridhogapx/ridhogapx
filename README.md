@@ -1,2 +1,2 @@
-### Orang ganteng dan intelek
+# Dumb and useless
 

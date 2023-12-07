@@ -3,5 +3,5 @@
 <p>I mostly working with Go Programming Language and AWS Cloud Server</p>
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![RageNeko26's GitHub stats](https://github-readme-stats.vercel.app/api?username=RageNeko26)](https://github.com/RageNeko26/)
 

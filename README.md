@@ -10,7 +10,6 @@ Here's lists  of topic that i'm currently learning and deep dive:
 - Grafana
 - Kubernetes
 - Google Cloud
-- Cassandra DB
 - Ansible
 
 Yup, most of them are observability tools, cloud and Software Instrumenting stuff. I also interested in Linux Kernel Progrmaming though!

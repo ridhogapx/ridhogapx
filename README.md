@@ -2,6 +2,19 @@
 Hewro! My name is Ridho. I love cloud technology and network infrastructure.
 I mostly working with <b>Golang</b> and <b>AWS</b>. I am happily collaborate to create amazing project!
 
+## My Current Interest
+Here's lists  of tiouc that i'm currently learning and deep dive:
+
+- Prometheus
+- OpenTelemetry
+- Grafana
+- Kubernetes
+- Google Cloud
+- Cassandra DB
+- Google Cloud Architecture
+
+Yup, most of them are observability tools, cloud and Software Instrumenting stuff. I also interested in Linux Kernel Progrmaming though!
+
 ## :3 
 <img src="https://moe-counter.glitch.me/get/@ridhogapx">
 

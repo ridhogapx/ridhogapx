@@ -11,7 +11,7 @@ Here's lists  of topic that i'm currently learning and deep dive:
 - Kubernetes
 - Google Cloud
 - Cassandra DB
-- Google Cloud Architecture
+- Ansible
 
 Yup, most of them are observability tools, cloud and Software Instrumenting stuff. I also interested in Linux Kernel Progrmaming though!
 

@@ -3,7 +3,7 @@ Hewro! My name is Ridho. I love cloud technology and network infrastructure.
 I mostly working with <b>Golang</b> and <b>AWS</b>. I am happily collaborate to create amazing project!
 
 ## My Current Interest
-Here's lists  of topic that i'm currently learning and deep dive:
+Here's list  of topics that i'm currently learning and deep dive:
 
 - Prometheus
 - OpenTelemetry

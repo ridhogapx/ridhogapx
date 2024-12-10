@@ -1,20 +1,7 @@
-## Hewroooo >////<
-Hewro! My name is Ridho. I love cloud technology and network infrastructure.
-I mostly working with <b>Golang</b> and <b>AWS</b>. I am happily collaborate to create amazing project!
+## <HelloWorld />
+Degenerate weebs that love Programming, Linux & Cloud Engineering.
 
-## My Current Interest
-Here's list  of topics that i'm currently learning and deep dive:
-
-- Prometheus
-- OpenTelemetry
-- Grafana
-- Kubernetes
-- Google Cloud
-- Ansible
-
-Yup, most of them are observability tools, cloud and Software Instrumenting stuff. I also interested in Linux Kernel Progrmaming though!
-
-## :3 
+## Counter 
 <img src="https://moe-counter.glitch.me/get/@ridhogapx">
 
 ## Wakatime
